@@ -1,4 +1,2 @@
-# mlops_zoomcamp
-mlops zoomcamp project
-
-this is an example
+# llm_zoomcamp
+llm zoomcamp project
